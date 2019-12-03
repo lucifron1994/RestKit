@@ -26,8 +26,8 @@ test-reports/
 
 # CocoaPods
 Pods
-RestKit.xcodeproj/xcshareddata/
-RestKit.xcworkspace/xcshareddata/xcschemes/
+# RestKit.xcodeproj/xcshareddata/
+# RestKit.xcworkspace/xcshareddata/xcschemes/
 DerivedData
 
 # Bundler binstubs
