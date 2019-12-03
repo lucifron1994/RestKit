@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "25160E61145651060060A5C5"
-               BuildableName = "RestKit.framework"
-               BlueprintName = "RestKitFramework"
+               BlueprintIdentifier = "3ED5CE4723968B870056677B"
+               BuildableName = "WHRestKit.framework"
+               BlueprintName = "WHRestKit"
                ReferencedContainer = "container:RestKit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -28,16 +28,6 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "25160E77145651060060A5C5"
-               BuildableName = "RestKitFrameworkTests.xctest"
-               BlueprintName = "RestKitFrameworkTests"
-               ReferencedContainer = "container:RestKit.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction
@@ -60,9 +50,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "25160E61145651060060A5C5"
-            BuildableName = "RestKit.framework"
-            BlueprintName = "RestKitFramework"
+            BlueprintIdentifier = "3ED5CE4723968B870056677B"
+            BuildableName = "WHRestKit.framework"
+            BlueprintName = "WHRestKit"
             ReferencedContainer = "container:RestKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

@@ -29,7 +29,7 @@ target 'RestKit' do
 end
 
 target 'RestKitFramework' do
-  platform :osx, '10.9'
+  platform :ios, '10.0'
   podspec
 
   target 'RestKitFrameworkTests' do
