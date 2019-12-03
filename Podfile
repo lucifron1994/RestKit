@@ -37,3 +37,8 @@ target 'RestKitFramework' do
       import_pods
   end
 end
+
+target 'WHRestKit' do
+  platform :ios, '10.0'
+  podspec
+end
